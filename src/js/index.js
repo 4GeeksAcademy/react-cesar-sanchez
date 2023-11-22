@@ -9,4 +9,5 @@ import "../styles/index.css";
 import Home from "./component/home.jsx";
 
 //render your react application
+  //      lo que quiero dibujar,donde lo voy a dibujar
 ReactDOM.render(<Home />, document.querySelector("#app"));
