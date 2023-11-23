@@ -6,7 +6,7 @@ import Navbar from "./navbar.js";
 
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
-
+import Sandia from "../../img/Sandia.jpg";
 
 //create your first component
 const Home = () => {
