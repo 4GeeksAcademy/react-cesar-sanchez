@@ -6,7 +6,7 @@ import Navbar from "./navbar.js";
 
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
-import Sandia from "../../img/Sandia.jpg";
+
 
 //create your first component
 const Home = () => {
@@ -14,7 +14,7 @@ const Home = () => {
 		<div className="container">
 				<Navbar/>
 				<Header/>
-			<div className="d-flex gap-2 text-center">
+			<div className="d-flex justify-content-center gap-2 text-center">
 				<Card/>
 				<Card/>
 				<Card/>
